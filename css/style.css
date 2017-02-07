@@ -1,0 +1,10 @@
+body{
+   background: url("../images/sand-2005066_1920.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.mow {
+    padding-top: 50px;
+}
